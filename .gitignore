@@ -1,3 +1,6 @@
 simplecrypto-linux.pro.user
 simplecrypto-win.pro.user
 .qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
